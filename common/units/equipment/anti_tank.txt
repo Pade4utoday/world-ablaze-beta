@@ -2122,7 +2122,7 @@ equipments = {
 		year = 1945
 
 		archetype = anti_tank_equipment
-		parent = swe_ghost_anti_tank_equipment_3
+		parent = swe_ghost_anti_tank_equipment_4
 		priority = 50
 		visual_level = 0
 
